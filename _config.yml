@@ -72,9 +72,48 @@ content:
         quote: >
           Built a new website using Golang and PostgreSQL to help doctors get patient data digitized in rural areas of India. Increased patient data retrieval by reducing the paper trail.
         description: | # this will include new lines to allow paragraphs
-          This project was started for the group to tackle a big project together and learn collabaration and as a way of learning <mark>Full Stack Development</mark>.
-          The website was hosted and maintained through a docker container on an EC2 instance on AWS. 
-          I have learned working on the backend with GO and maintaining the database needed with PostgreSQL through this and happy to have this in my portfolio.
+          I was part of a team that collaborated on a <mark>Full Stack Development</mark> project, with the goal of creating a website from scratch. 
+          My main focus was on the back-end, where I worked with GO to develop and maintain the website's functionality. 
+          In particular, I learned how to manage the project's database using PostgreSQL. 
+          To deploy and maintain the website, we used a Docker container hosted on an EC2 instance on AWS. 
+          Through this project, I gained valuable experience in collaborative development, Full Stack Development, and managing databases. 
+          I'm proud to include this project in my portfolio as a testament to my technical skills and ability to work effectively in a team.
+  
+  - title: University Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Windows Calculator
+        link: https://github.com/daniehjyoo/developer_calculator
+        # link_text: Project Website
+        additional_links:
+          - title:  Windows Calculator
+            icon: fab fa-github
+            url: https://github.com/daniehjyoo/developer_calculator
+        quote: >
+          I developed a Windows programmer calculator using Java, gaining valuable experience in programming and GUI development.
+        description: | # this will include new lines to allow paragraphs
+          I utilized Java to develop a Windows programmer calculator that replicated the functionality of a Windows calculator with standard, scientific, and programmer modes. 
+          Throughout the project, I demonstrated proficiency in refactoring non-data classes for improved program organization and maintainability. 
+          To enhance the user experience, I utilized event listeners to enable real-time updates for all calculations on the GUI. 
+          Through this project, I gained valuable experience in programming, GUI development, and implementing real-time updates. 
+          I am excited to showcase this project as evidence of my technical skills and ability to develop efficient, user-friendly applications.
+              content:
+
+        title: Live Chatbot
+        link: https://github.com/daniehjyoo/Chatbot
+        # link_text: Project Website
+        additional_links:
+          - title:  Live Chatbot
+            icon: fab fa-github
+            url: https://github.com/daniehjyoo/Chatbot
+        quote: >
+          Built a live chatbot in Java using APIs to provide real-time weather reports and top songs information, gaining valuable experience in programming and data manipulation.
+        description: | # this will include new lines to allow paragraphs
+          I developed a live chatbot using Java that was capable of answering user questions related to global and local weather reports and top songs. 
+          By utilizing Last.fm and OpenWeather APIs, I provided real-time data-retrieval and gained experience in parsing and manipulating raw JSON data for use in edited tables. 
+          Through this project, I gained valuable experience in working with APIs, developing a chatbot, and manipulating data to improve the user experience.
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -83,20 +122,20 @@ content:
         title: University of Texas at Dallas
         caption: 2019 - 2021
         sub_title: BSc Computer Science
-        # quote: >
-        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          I transfered into UTD from a college that I was working through the Texas CORE requirements alongside part time working.
-          I spent then the 2 years into taking the computer science courses at UTD where I learned core developing concepts, techniques, and the theory of the science. 
-          I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          As a recent graduate from the University of Texas at Dallas (UTD), I have gained a strong foundation in computer science and developing concepts, techniques, and theories. 
+          During my time at UTD, I enjoyed a healthy work-life balance while taking courses in computer science and learning from experienced professors. 
+          I also appreciated the university's emphasis on research and innovation, as well as its collaborations with industry partners that provided me with valuable hands-on learning opportunities.
+          Overall, UTD is a highly respected and competitive tech school that has prepared me well for a successful career in the tech industry.
 
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Cooking
-      - Gaming
+      - Cooking, I love to taste the flavours around the world
+      - Gaming, I love the hardest of all challenges.
+      - Snow sports, especially snowboarding!
       - Working out
 
      # - [hyperlink](link)s
