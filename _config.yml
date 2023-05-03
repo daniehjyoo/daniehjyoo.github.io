@@ -83,6 +83,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+      
         title: Windows Calculator
         link: https://github.com/daniehjyoo/developer_calculator
         # link_text: Project Website
