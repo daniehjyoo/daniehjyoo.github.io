@@ -83,7 +83,6 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-      
         title: Windows Calculator
         link: https://github.com/daniehjyoo/developer_calculator
         # link_text: Project Website
@@ -101,6 +100,8 @@ content:
           I am excited to showcase this project as evidence of my technical skills and ability to develop efficient, user-friendly applications.
               content:
 
+    content:
+      - layout: top-middle
         title: Live Chatbot
         link: https://github.com/daniehjyoo/Chatbot
         # link_text: Project Website
