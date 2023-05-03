@@ -100,7 +100,6 @@ content:
           I am excited to showcase this project as evidence of my technical skills and ability to develop efficient, user-friendly applications.
               content:
 
-    content:
       - layout: top-middle
         title: Live Chatbot
         link: https://github.com/daniehjyoo/Chatbot
